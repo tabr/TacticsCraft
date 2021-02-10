@@ -154,9 +154,9 @@ tile.nuclearcraft.pressurizer_idle.name=Компенсатор давления
 tile.nuclearcraft.pressurizer_idle.desc=Обрабатывает детали под огромным давлением.
 tile.nuclearcraft.pressurizer_active.name=Компенсатор давления
 
-tile.nuclearcraft.chemical_reactor_idle.name=Химический реактор
+tile.nuclearcraft.chemical_reactor_idle.name=Жидкостный реактор
 tile.nuclearcraft.chemical_reactor_idle.desc=Реакция размещения между жидкостями.
-tile.nuclearcraft.chemical_reactor_active.name=Химический реактор
+tile.nuclearcraft.chemical_reactor_active.name=Жидкостный реактор
 
 tile.nuclearcraft.salt_mixer_idle.name=Солевой смеситель
 tile.nuclearcraft.salt_mixer_idle.desc=Смешивает жидкости вместе.
@@ -2425,7 +2425,7 @@ advancement.nuclearcraft.melter.name=Горячий и пряный
 advancement.nuclearcraft.melter.desc=Создайте расплавитель
 
 advancement.nuclearcraft.chemical_reactor.name=Мартин Полякофф
-advancement.nuclearcraft.chemical_reactor.desc=Создайте химический реактор
+advancement.nuclearcraft.chemical_reactor.desc=Создайте жидкостный реактор
 
 advancement.nuclearcraft.supercooler.name=Горячая машина
 advancement.nuclearcraft.supercooler.desc=Создайте суперохладитель
@@ -2535,7 +2535,7 @@ message.nuclearcraft.scrubber_removal_rate=Скорость удаления р�
 
 death.attack.superfluid_freeze=%1$s был конденсирован Бозе-Эйнштейном
 death.attack.plasma_burn=%1$s был испепелен плазмой
-death.attack.steam_burn=%1$s было бы лучше в чайнике
+death.attack.steam_burn=%1$s повезло бы больше в чайнике
 death.attack.molten_burn=%1$s отправился в ад, но не вернулся
 death.attack.hot_coolant_burn=%1$s охладился в неправильном времени и месте
 death.attack.acid_burn=%1$s оказался слишком щелочным
